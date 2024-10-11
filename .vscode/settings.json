@@ -1,0 +1,6 @@
+{
+    "dart.flutterShowWebServerDevice": "always",
+    "dart.flutterHotReloadOnSave": "all",
+    "dart.hotReloadOnSave": "all",
+    "dart.flutterGenerateLocalizationsOnSave": "all"
+}
