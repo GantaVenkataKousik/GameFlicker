@@ -28,3 +28,23 @@
 
    ```bash
    git clone https://github.com/yourusername/gameflicker.git
+
+2. **Navigate to the project directory**:
+
+  ```cd gameflicker
+
+3. **Install the dependencies**:
+Make sure you are in the root of the Flutter project. Then, run:
+
+ ```flutter pub get
+ ```Run the app:
+
+To run the app on your connected device or emulator, use the following command:
+
+ ```flutter run
+You can also run the app from within your IDE (VS Code or Android Studio) by pressing the 'Run' button.
+
+Testing
+You can run unit and widget tests to verify the app's functionality:
+
+ ```flutter test
